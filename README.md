@@ -13,7 +13,7 @@ This project is a Python-based product matching system that combines text simila
 
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.x
+- Python 3.11
 - pip
 - Git
 
@@ -39,7 +39,7 @@ Ensure you have an Excel file named `Product Matching Dataset.xlsx` in the proje
 ### 3. Run the Script
 Execute the following command:
 ```sh
-python match_products.py
+main.py
 ```
 
 ### 4. Output
@@ -58,6 +58,4 @@ Feel free to fork the repository and submit pull requests with improvements.
 ## License
 This project is licensed under the MIT License.
 
-## Submission
-After setting up the repository and running the script successfully, submit the GitHub repository URL in the required form.
 
