@@ -27,7 +27,7 @@ pip install pandas numpy scikit-learn openpyxl
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/product-matching-system.git
+git clone https://github.com/ZeyadTarekAhmed/Product-Matching-Competition.git
 cd product-matching-system
 ```
 
